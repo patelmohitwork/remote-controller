@@ -1,4 +1,4 @@
-# 🖥️ Remote Controller v2.5
+# 🖥️ Remote Controller
 
 A secure, high-performance, native Win32 remote desktop application for Windows featuring pure GUI subsystems, 40 FPS low-latency video streaming, end-to-end encryption, Encrypted Live Text Chat, Dual-Pane Remote File Manager, and Windows UAC / Lock Screen elevation support.
 
