@@ -204,5 +204,11 @@ Created as a final year project demonstrating:
 
 ---
 
+## 🧑‍💻 Support 
+
+If you run into any issues or have questions, feel free to reach out at mohit@mohitpatel.work.
+
+---
+
 **⚠️ Disclaimer**: This software is intended for legitimate remote access to your own computers. Always obtain proper authorization before accessing any computer remotely.
 
