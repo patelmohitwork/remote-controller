@@ -189,19 +189,9 @@ remote controller/
 └── README.md          # This file
 ```
 
-## 🔮 Future Improvements
-
-- [ ] File transfer functionality
-- [ ] Clipboard synchronization
-- [ ] Multi-monitor support
-- [ ] Audio streaming
-- [ ] NAT traversal / relay server
-- [ ] Mobile viewer app
-- [ ] Session recording
-
 ## 📄 License
 
-This project is for educational purposes. Feel free to use and modify for your final year project.
+You are free to use, modify, distribute, and adapt this work for educational purposes, academic submissions, or final-year projects, provided the original copyright and permission notice are preserved.
 
 ## 👤 Author
 
